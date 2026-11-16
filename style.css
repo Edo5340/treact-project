@@ -708,6 +708,9 @@ MOBILE RESPONSIVENESS ↓
         width: auto;
         max-width: 384px;
     }
+    .features {
+        justify-content: center;
+    }
     .section__para {
         font-size: 14px;
     }
